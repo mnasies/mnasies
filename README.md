@@ -9,7 +9,8 @@ Currently building:
   with the in-memory layer above it
 
 I also write about low-level computing at [**Kernel Thoughts**](https://kernel-thoughts.hashnode.dev/.)
-Site: mnasies.me
+
+Site: https://mnasies.me
 
 ---
-C++ · Rust · JavaScript (learning)
+C++ · Rust · JavaScript · Golang(learning)
