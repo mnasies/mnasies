@@ -10,7 +10,7 @@ Currently building:
 
 I also write about low-level computing at [**Kernel Thoughts**](https://kernel-thoughts.hashnode.dev/.)
 
-Site: https://mnasies.me
+[*Portfolio Site*](https://www.mnasies.me)
 
 ---
 C++ · Rust · JavaScript · Golang(learning)
