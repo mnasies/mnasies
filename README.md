@@ -43,7 +43,15 @@ I write about low-level computing at [**Kernel Thoughts**](https://kernel-though
 [Portfolio](https://www.mnasies.me)
 
 ---
-Languages: C++ · Rust · JavaScript · Golang(learning)
-Backend: Node.js · Express.js · Go
-Infrastructure: Docker · Linux · nginx · Github Actions ·
-Data: SQLite
+
+
+```toml
+[stack]
+languages      = ["C++", "Rust", "Go", "JavaScript", "Bash"]
+tools          = ["Linux", "Git", "GitHub Actions", "CMake"]
+
+[learning]
+backend        = ["Go", "Node.js", "Express"]
+infrastructure = ["Docker", "nginx", "Linux VPS"]
+data           = ["SQLite"] ["PostgreSQL"]
+```
