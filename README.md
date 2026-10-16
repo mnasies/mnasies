@@ -53,5 +53,5 @@ tools          = ["Linux", "Git", "GitHub Actions", "CMake"]
 [learning]
 backend        = ["Go", "Node.js", "Express"]
 infrastructure = ["Docker", "nginx", "Linux VPS"]
-data           = ["SQLite"] ["PostgreSQL"]
+data           = ["SQLite", "PostgreSQL"]
 ```
