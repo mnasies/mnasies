@@ -42,7 +42,7 @@ I write about low-level computing at [**Kernel Thoughts**](https://kernel-though
 
 [Portfolio](https://www.mnasies.me)
 
-Fun Fact: You are one of this
+Fun Fact: You are one of these visitors
 
 ![Profile views](https://counter.kuber.studio/mnasies/hacker/count.svg)
 
